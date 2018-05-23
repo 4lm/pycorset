@@ -1,6 +1,6 @@
 def add(a, b):
     """
-    Adds to numbers.
+    Adds two numbers.
 
     Args:
         param1 (int): The first number.
