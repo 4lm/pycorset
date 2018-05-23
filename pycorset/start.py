@@ -1,9 +1,9 @@
-from functions.numby import add
-from functions.stringy import hello 
+from functions import numby
+from functions import stringy  
 
 def main():
-    print(add(1, 2))
-    print(hello())
+    print(numby.add(1, 2))
+    print(stringy.hello())
 
 if __name__ == "__main__":
     main()
