@@ -8,6 +8,7 @@ name = "pypi"
 pytest-pylint = "*"
 "pep8" = "*"
 "pytest-pep8" = "*"
+coverage = "*"
 
 [dev-packages]
 pytest = "*"
