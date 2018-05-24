@@ -3,7 +3,7 @@ Entry point of this example application.
 """
 from pycorset.functions.numby import add
 from pycorset.functions.stringy import hello
-from pycorset.functions.static import add_int
+from pycorset.functions.typed import add_int
 
 
 def main() -> None:
