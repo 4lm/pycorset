@@ -14,6 +14,7 @@ Inspired by:
 - `Python Testing Using pytest, Tox, Travis-CI and Coveralls <http://jhshi.me/2016/10/04/python-testing-using-pytest-tox-travis-ci-and-coverall/index.html>`_
 - `Pytest: Command line options and configuration file settings <https://docs.pytest.org/en/latest/customize.html>`_
 - `How to test or mock "if __name__ == '__main__'" contents <https://stackoverflow.com/questions/5850268/how-to-test-or-mock-if-name-main-contents/27084447>`_
+- `The Definitive Guide to Python import Statements <https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html>`_
 
 Hints:
 
