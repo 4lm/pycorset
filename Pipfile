@@ -11,10 +11,10 @@ pytest = "*"
 mypy = "*"
 pylint = "*"
 pytest-pylint = "*"
-"pep8" = "*"
-"pytest-pep8" = "*"
 coverage = "*"
 pytest-cov = "*"
+pycodestyle = "*"
+pytest-pycodestyle = "*"
 
 [requires]
 python_version = "3.6"
