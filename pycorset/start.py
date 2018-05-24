@@ -5,6 +5,7 @@ from pycorset.functions.numby import add
 from pycorset.functions.stringy import hello
 from pycorset.functions.static import add_int
 
+
 def main() -> None:
     """
     Prints the return value of some functions.

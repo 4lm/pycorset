@@ -2,6 +2,7 @@
 Module with function for adding numbers.
 """
 
+
 def add(num_a, num_b):
     """
     Adds two numbers.
