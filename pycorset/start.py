@@ -14,5 +14,6 @@ def main() -> None:
     print(add_int(1, 2.5))
     print(hello())
 
+
 if __name__ == "__main__":
     main()
