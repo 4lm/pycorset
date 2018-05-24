@@ -1,4 +1,10 @@
-from .projectfolder import start
+"""
+Tests start.py in pycorset.
+"""
+from pycorset import start
 
 def test_pycorset_start():
-    assert start.main() == None
+    """
+    Tests, if startmain works an returns None.
+    """
+    assert start.main() is None

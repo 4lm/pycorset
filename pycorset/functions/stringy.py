@@ -1,3 +1,7 @@
+"""
+Module with example str function.
+"""
+
 def hello():
     """
     Returns the str "Hello, world!".

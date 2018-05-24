@@ -1,10 +1,13 @@
+"""
+Configuration of the project for distribution.
+"""
 from setuptools import setup, find_packages
 
 with open('README.rst') as f:
-    readme = f.read()
+    README = f.read()
 
 with open('LICENSE') as f:
-    license = f.read()
+    LICENSE = f.read()
 
 setup(
     name='pycorset',
@@ -13,10 +16,10 @@ setup(
     url="https://github.com/4lm/pycorset",
     author="Alexis Michaltsis",
     author_email="alexis@michaltsis.net",
-    long_description=readme,
-    license=license,
+    long_description=README,
+    license=LICENSE,
     install_requires=[
-    'sphinx'
+        'sphinx'
     ],
     packages=find_packages(exclude=('tests', 'docs')),
     entry_points={

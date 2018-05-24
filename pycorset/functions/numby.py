@@ -1,4 +1,8 @@
-def add(a, b):
+"""
+Module with function for adding numbers.
+"""
+
+def add(num_a, num_b):
     """
     Adds two numbers.
 
@@ -12,4 +16,4 @@ def add(a, b):
     >>> add(1, 3)
     4
     """
-    return a + b
+    return num_a + num_b
