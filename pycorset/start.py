@@ -11,7 +11,7 @@ def main() -> None:
     Prints the return value of some functions.
     """
     print(add(1, 2))
-    print(add_int(1, 2.5))
+    print(add_int(1, 2))
     print(hello())
 
 
