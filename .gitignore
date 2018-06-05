@@ -1,5 +1,7 @@
-*.egg-info
-.pytest_cache
-.mypy_cache
-.vscode
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.vscode/
 .coverage
+build/
+dist/
