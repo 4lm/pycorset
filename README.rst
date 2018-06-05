@@ -10,6 +10,8 @@ Yet another Python starter
     :alt: Travis
     :target: https://travis-ci.com/4lm/pycorset
 
+.. image:: coverage.svg
+    :alt: Coverage
 
 Inspired by:
 
