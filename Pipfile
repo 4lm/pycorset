@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 "e1839a8" = {path = ".", editable = true}
+coverage-badge = "*"
 
 [dev-packages]
 pytest = "*"
@@ -15,6 +16,7 @@ coverage = "*"
 pytest-cov = "*"
 pycodestyle = "*"
 pytest-pycodestyle = "*"
+coverage-badge = "*"
 
 [requires]
 python_version = "3.6"
