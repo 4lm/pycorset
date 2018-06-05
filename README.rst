@@ -6,7 +6,10 @@ pycorset
 Yet another Python starter
 --------------------------
 
-.. image:: https://travis-ci.com/4lm/pycorset.svg?branch=master   :alt: Travis   :target: https://travis-ci.com/4lm/pycorset
+.. image:: https://travis-ci.com/4lm/pycorset.svg?branch=master
+    :alt: Travis
+    :target: https://travis-ci.com/4lm/pycorset
+
 
 Inspired by:
 
