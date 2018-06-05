@@ -6,6 +6,8 @@ pycorset
 Yet another Python starter
 --------------------------
 
+.. image:: https://travis-ci.com/4lm/pycorset.svg?branch=master   :alt: Travis   :target: https://travis-ci.com/4lm/pycorset
+
 Inspired by:
 
 - `The Hitchhiker's Guide to Python! <http://docs.python-guide.org/en/latest/>`_
